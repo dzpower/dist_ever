@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/profile/followers", {data:[{}],fetch:{},mutations:[]});
