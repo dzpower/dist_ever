@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marketplace/all", {data:[{}],fetch:{},mutations:[]});
