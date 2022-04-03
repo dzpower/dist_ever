@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/catalog/purchases", {data:[{}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/profile/settings/blacklist", {data:[{}],fetch:{},mutations:[]});

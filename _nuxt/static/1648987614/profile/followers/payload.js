@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/profile/followers", {data:[{}],fetch:{},mutations:[["common\u002FSHOW_PRELOADER",void 0]]});

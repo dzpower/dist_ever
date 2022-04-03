@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/basket", (function(a){return {data:[{}],fetch:{},mutations:[["common\u002FSHOW_PRELOADER",a],["basket\u002FSET_PID_IN_BUSKET",a]]}}(void 0)));

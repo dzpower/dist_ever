@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/catalog/7", {data:[{}],fetch:{},mutations:[["common\u002FSHOW_PRELOADER",void 0]]});
