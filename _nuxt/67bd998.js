@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{340:function(t,n,e){"use strict";e.r(n);var l={name:"EmptyData"},c=e(2),component=Object(c.a)(l,(function(){var t=this,n=t.$createElement;return(t._self._c||n)("div",{staticClass:"empty-data"},[t._t("default",(function(){return[t._v("\n    Empty\n  ")]}))],2)}),[],!1,null,null,null);n.default=component.exports}}]);
